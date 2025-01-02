@@ -19,21 +19,8 @@ This repository contains the backend implementation of a simple Ticket Managemen
 **Postman:** API testing.
 
 ## Folder Structure
-src/
-├── main/
-│   ├── java/
-│   │   ├── fi.ticketmanagement/
-│   │   │   ├── controllers/         # REST controllers
-│   │   │   ├── dto/                 # Data Transfer Objects
-│   │   │   ├── entity/              # Entities and enums
-│   │   │   ├── exceptions/          # Custom exception handling
-│   │   │   ├── repositories/        # Repository layer
-│   │   │   ├── services/            # Service layer
-│   │   │   └── TicketManagementApplication.java
-│   ├── resources/
-│       ├── application.properties  # Application configuration
-├── test/
-    └── java/                        # Test cases
+![Screenshot 2025-01-02 203233](https://github.com/user-attachments/assets/2e6f3424-2699-4384-875e-6bd3b00627b6)
+
 
 # APIs Testing
 
